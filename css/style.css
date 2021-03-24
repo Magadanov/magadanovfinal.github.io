@@ -1,0 +1,227 @@
+body{
+  min-height: 100vh;
+}
+
+.first-step{
+  background-image: url("https://i.imgur.com/Fx0A91t.jpg");
+  background-color: #f2f2f2;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  background-attachment: fixed;
+  clip-path: circle(200vh at 50% -100vh);
+}
+.first-step1{
+  padding: 20px 0 0 50px;
+  font-style: oblique;
+  font-size: 20px;
+  color: white;
+  display: block;
+  float: left;
+}
+
+.fas {
+  font-size: 54px;
+}
+
+.location1{
+  display: inline-block;
+  padding-left: 6px;
+}
+.videos{
+  margin-left: 30px;
+  padding-bottom: 50px;
+}
+#iframe2{
+  border-radius: 10px;
+  margin-left: 35px;
+}
+#iframe1{
+  border-radius: 10px;
+  margin-left: 40px
+}
+#iframe3{
+  border-radius: 10px;
+}
+iframe{
+  padding-top: 20px;
+}
+.first-step2{
+  text-align: right;
+  padding-right: 50px;
+}
+.navbar{
+  /* background: linear-gradient(to right, white, #FFDEAD, #E0FFFF,#F0E68C, #FFFAF0); */
+  /* background: linear-gradient(to right, white, #4B0082, white, #CD853F,	#8A2BE2, #808080	); */
+  background-color: black;
+  opacity: .7;
+}
+.navbar{
+  margin: 10px 50px;
+  border-radius: 20px;,
+}
+.navbar-brand{
+  font-style: oblique;
+  font-family: sans-serif;
+}
+.navbar a{
+  color: white;
+}
+.container-fluid{
+  padding: 0;
+}
+.second-step{
+  background-color: #f2f2f2;
+}
+.second-step1{
+  padding-top: 20px;
+  text-align: center;
+  font-style: normal;
+  font-family: monospace;
+}
+.second-step2{
+  height: 500px;
+  width: 800px;
+  font-size: 15px;
+}
+.third-step{
+  background-image: url("https://userthemes.com/blogosphere/wp-content/uploads/2016/08/full_scale174.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 80vh;
+  background-attachment: fixed;
+}
+
+.third-step1{
+  padding-top: 40vh;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.row1{
+  /* background: linear-gradient(to right, #228B22, #808000,	#006400,	#00FF7F); */
+  background-color:	#808080;
+  opacity: .7;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.third-step1 .col{
+  margin: 5px;
+  font-family:inherit;
+  font-style: normal;
+  color: #FFFFFF;
+}
+
+.third-step1 i{
+  font-size: 15px;
+}
+
+.third-step1 a{
+  color: #FFFFFF;
+  text-decoration:none;
+}
+
+.depart{
+  display: inline-block;
+}
+
+.return{
+  display: inline-block;
+}
+input{
+  background-color: #FFFFE0;
+}
+
+.forth-step{
+  background-image: url("https://set-travel.com/wp-content/uploads/2020/03/borovoe-ozero-kokshetauskaya.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  padding: 15vh 50px;
+  background-attachment: fixed;
+}
+
+.fa-circle{
+  display: inline-block;
+  font-size: 15px;
+}
+#hotelimg{
+  height: 100%;
+  width: 100%;
+}
+.col{
+  padding: 0;
+}
+
+.col-right{
+  background-color: black;
+  opacity: .7;
+  color: white;
+  padding: 20px;
+}
+.col-right h3{
+  text-align: center;
+  margin-top: 15px;
+}
+.col-right img{
+  color: white;
+}
+
+.rating{
+  display: inline-block;
+  padding-left: 2px;
+  padding-top: 1rem;
+}
+#rating {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+.gre{
+  color: #00FA9A;
+}
+.services{
+  margin: 10px;
+  padding: 20px;
+}
+
+.service{
+  display: inline-block;
+}
+
+.rating{
+  font-size: 30px;
+}
+
+.rating5{
+  font-size: 22px;
+}
+.cost{
+  text-align: right;
+}
+.price{
+  display: inline-block;
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+.btn{
+  color: red;
+  background-color: yellow;
+}
+.lastsection{
+  background-color: black;
+  height: 43vh;
+  opacity: .7;
+}
+
+.col-sm-3{
+  text-align: center;
+  padding-top: 10px;
+  color: 	#808080;
+}
+
+.words{
+  width: 200px;
+  font-size: 10px;
+}
